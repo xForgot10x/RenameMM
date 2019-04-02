@@ -18,7 +18,7 @@ def win_safe_name(trackname):
     # underscores.
     trackname = trackname.strip()
     if trackname.endswith("."):
-        trackname = trackname[:len(trackname) - 1] + "_"
+        trackname = trackname[:-1] + "_"
     for chr in trackname:
         if chr in ("<", ">", ":", "/", "\\", "|", "?", "*", "\""):
             trackname = trackname.replace(chr, "_")
