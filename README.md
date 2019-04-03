@@ -1,5 +1,5 @@
 # RenameMM
-A little script for renaming music files in accordance with the following mask: "[disc number].[track number] - [track title].ext", based on ID tags included in the files. I always found it too bothersome to rename files, whilst tags are usually fine out of the box or require very little tweaks (and it is more pleasant anyway if you use an audio player like foobar2000).
+A little script for renaming music files in accordance with the following mask: "[disc number].[track number] - [track title].ext", based on ID tags included in the files. I always found it too bothersome to rename files, whilst tags are usually fine out of the box or require very few tweaks (and it is more pleasant anyway if you use an audio player like foobar2000).
 
 Usage:
 
